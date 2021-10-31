@@ -1,0 +1,23 @@
+video {
+    width: 1000;
+    height: 1000;
+}
+
+marquee {
+    background-color: skyblue;
+}
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    height: 500px;
+    width: 600px;
+}
+
+.mapouter {  position: relative;
+    text-align: right;
+    height: 500px;
+    width: 600px;
+    float: left;
+}
+  
